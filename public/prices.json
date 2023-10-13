@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29.99,
+      "features": [
+        "Access to gym facilities",
+        "Standard equipment usage",
+        "Locker room access"
+      ],
+      "description": "Our basic membership for those looking to stay active."
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 49.99,
+      "features": [
+        "Access to gym facilities",
+        "Premium equipment usage",
+        "Group fitness classes",
+        "Locker room access"
+      ],
+      "description": "Upgrade to our premium membership for an enhanced gym experience."
+    },
+    {
+      "id": 3,
+      "name": "VIP Membership",
+      "price": 79.99,
+      "features": [
+        "Access to gym facilities",
+        "Premium equipment usage",
+        "Group fitness classes",
+        "Locker room access",
+        "Personal trainer sessions"
+      ],
+      "description": "Our VIP membership for a personalized fitness journey."
+    }
+  ]
+  
