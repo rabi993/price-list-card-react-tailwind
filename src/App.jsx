@@ -11,7 +11,7 @@ function App() {
   return (
     <div className='App'>
       <Navebar></Navebar>
-      <h1 className='text-7xl text-purple-500'>Hello From Tailwind</h1>
+      <h1 className='text-7xl text-center text-purple-500'>Hello From Tailwind</h1>
       <PriceList></PriceList>
        
     </div>
